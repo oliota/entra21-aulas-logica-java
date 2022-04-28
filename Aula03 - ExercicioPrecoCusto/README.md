@@ -10,4 +10,4 @@ produto X (65 /100)
 
 
 > OBS:Existe outra forma mais simples de realizar esse calculo.
- 
+  

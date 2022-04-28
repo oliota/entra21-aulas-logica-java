@@ -12,5 +12,5 @@
 
 ## conceito
 
-> os operadores aritiméticos realizam operações matemáticas entre variaveis ou valores
+> os operadores aritiméticos realizam operações matemáticas entre variaveis ou valores 
  

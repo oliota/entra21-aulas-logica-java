@@ -9,4 +9,4 @@
 > após essa mudança, não será mais permitido alterar o seu valor, seja no codigo ou com interação com o usuário
 
 > ### importante
-> o padrão de nomenclatura de uma constante é CAPS pois cria um destaque visual no codigo
+> o padrão de nomenclatura de uma constante é CAPS pois cria um destaque visual no codigo 
