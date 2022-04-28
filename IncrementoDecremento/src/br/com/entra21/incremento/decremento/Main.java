@@ -6,15 +6,12 @@ public class Main {
 		 
 		int idade=33;
 		
-		System.out.println("Minha idade com pre incremento "+(++idade));
+		idade-=10;
+		System.out.println("Minha idade com pre incremento "+(idade));
 		System.out.println("E agora ?"+idade);
 		 
-		byte contador=0;
-		do {
-			System.out.println(" contando "+(contador));
-
-			contador++;
-		}while(contador<=10);
+		
+		 
 		
 		/*
 		 * //aniversario idade = idade+1; //34 System.out.println(idade);
