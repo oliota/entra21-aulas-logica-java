@@ -6,8 +6,8 @@ public class Main {
 		System.out.println("Aprendendo sobre else if (ou seja renovando o if antes do else)");
 
 		float altura = 1.7f;
-		double dinheiro = 1000f;
-
+		double dinheiro = 10000f;
+		
 		if (altura < 1.5f) {// é baixinho ?
 			System.out.println("é bem baixinho");
 		} else if (altura <= 1.9f) {// é alto

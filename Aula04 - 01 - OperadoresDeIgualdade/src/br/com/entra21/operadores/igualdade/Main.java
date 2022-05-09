@@ -10,7 +10,7 @@ public class Main {
 		byte idadeA, idadeB;
 		boolean resultado;
 
-		idadeA = 5;
+		idadeA = 10;
 		idadeB = 10;
 
 		resultado = idadeA == idadeB;

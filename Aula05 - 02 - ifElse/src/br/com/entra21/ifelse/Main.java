@@ -11,7 +11,7 @@ public class Main {
 			System.out.println("Vai passar aqui quando a condição resultar em false");
 		}
 		
-		byte idade=18;
+		byte idade=2;
 		
 		if(idade>17) {//é maior de idade?
 			System.out.println("é de maior");
