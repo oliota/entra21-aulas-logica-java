@@ -17,8 +17,8 @@ byte opcao = 1;
 			//executar esse bloco de comando
 			break;
 
-      default: 
+		default:
 			//executar esse bloco de comando
-        break;
+			break;
 		}
 ````
