@@ -16,7 +16,7 @@
 
 | AULA | ASSUNTO |
 |------|---------|
-|Aula 01 - 01|[Metotologias Ágeis - SCRUM+KANBAN === Trello]([./Aula%2002%20-%2001%20-%20Variaveis/](https://trello.com/b/v8uWxawZ/entra21-2022)) 
+|Aula 01 - 01|[Metotologias Ágeis - SCRUM+KANBAN === Trello](https://trello.com/b/v8uWxawZ/entra21-2022)
 |Aula 02 - 01|[Variáveis](./Aula02%20-%2001%20-%20Variaveis/)                                    
 |Aula 02 - 02|[Constantes](./Aula02%20-%2002%20-%20Constantes/)
 |Aula 03 - 01|[Operadores Aritméticos](./Aula03%20-%2001%20-%20OperadoresAritimeticos/)
