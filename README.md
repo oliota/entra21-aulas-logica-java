@@ -30,3 +30,6 @@ Repositório com as práticas realizadas em aula
 |Aula 07 - 01|[Funções](./Aula%2007%20-%2001%20-%20Funções/)
 |Aula 09 - 01|[For](./Aula%2009%20-%2001%20-%20FOR/)
 |Aula 10 - 01|[While / Do-While](./Aula%2010%20-%2001%20-%20Estrutura%20While/)
+|Aula 11 - 01|[While / Do-While - Práticas em sala](./Aula11%20-%2001%20-PraticaEmSala/)
+|Aula 12 - 01|[Vetores](./Aula12%20-%2001%20-%20Vetores/)
+|Aula 13 - 01|[Vetores - Práticas em sala](./Aula13%20-%2001%20-%20ExercicioVetores/)
