@@ -33,3 +33,5 @@ Repositório com as práticas realizadas em aula
 |Aula 11 - 01|[While / Do-While - Práticas em sala](./Aula11%20-%2001%20-PraticaEmSala/)
 |Aula 12 - 01|[Vetores](./Aula12%20-%2001%20-%20Vetores/)
 |Aula 13 - 01|[Vetores - Práticas em sala](./Aula13%20-%2001%20-%20ExercicioVetores/)
+|Aula 14 - 01|[Matrizes](./Aula14%20-%2001%20-%20Matrizes/)
+|Aula 15 - 01|[Matrizes - Práticas em sala](./Aula15%20-%2001%20-%20ExerciciosMatrizes/)
